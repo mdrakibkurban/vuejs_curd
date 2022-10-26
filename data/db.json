@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "In publishing and graphic design."
+    },
+    {
+      "title": "Post ",
+      "body": "In publishing and graphic.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "In publishing and graphic design."
+    },
+    {
+      "title": "Post 4",
+      "body": "In publishing and graphic design.",
+      "id": 4
+    },
+    {
+      "title": "Post 5",
+      "body": "In publishing and graphic design 5.",
+      "id": 5
+    }
+  ]
+}
